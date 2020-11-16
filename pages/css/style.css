@@ -1,0 +1,52 @@
+body {
+  background: #222222;
+  margin: 30px;
+}
+
+* {
+  color: white;
+}
+
+.login {
+  float: right;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-right: 50px;
+}
+.login form {
+  margin: 10px;
+}
+.login .form-group {
+  width: 80%;
+  margin: 10px 0 10px 20px;
+}
+.login button {
+  text-align: center;
+}
+
+.form-group {
+  display: flex;
+}
+.form-group .search {
+  width: 70%;
+}
+.form-group i {
+  position: absolute;
+  margin-top: -12px;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #ddd;
+  width: 70% !important;
+}
+
+.tab-content .card-text {
+  color: black !important;
+}
+
+/*# sourceMappingURL=style.css.map */
